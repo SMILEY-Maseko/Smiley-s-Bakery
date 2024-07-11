@@ -157,5 +157,21 @@ footer{
     display: block;
 }
 
+.velvet{
+    text-align: center;
+}
+ .red{
+    background: red;
+    margin: 30px 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
 
-
+.redvelvet{
+    text-align: center;
+}
+    
+ 
