@@ -157,25 +157,5 @@ footer{
     display: block;
 }
 
-/*..........Media Query..........*/
 
-@media only screen and (min-width: 768px;){
-    .menu-icon{
-        display: none;
-    }
-
-    .nav-list{
-        display: block;
-    }
-
-}
-@media only screen and (max-width: 768px;){
-   .hero h2{
-    font-size: 25px;
-   }
-   .hero p{
-    font-size: 15px;
-   }
-
-}
 
